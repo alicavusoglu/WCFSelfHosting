@@ -1,0 +1,8 @@
+D:\WCFSelfHosting\WCFSelfHosting\WCFSelfHost\bin\Debug\WCFSelfHost.exe.config
+D:\WCFSelfHosting\WCFSelfHosting\WCFSelfHost\obj\Debug\WCFSelfHost.csprojResolveAssemblyReference.cache
+D:\WCFSelfHosting\WCFSelfHosting\WCFSelfHost\bin\Debug\WCFSelfHost.exe
+D:\WCFSelfHosting\WCFSelfHosting\WCFSelfHost\bin\Debug\WCFSelfHost.pdb
+D:\WCFSelfHosting\WCFSelfHosting\WCFSelfHost\bin\Debug\WCFService.dll
+D:\WCFSelfHosting\WCFSelfHosting\WCFSelfHost\bin\Debug\WCFService.pdb
+D:\WCFSelfHosting\WCFSelfHosting\WCFSelfHost\obj\Debug\WCFSelfHost.exe
+D:\WCFSelfHosting\WCFSelfHosting\WCFSelfHost\obj\Debug\WCFSelfHost.pdb
